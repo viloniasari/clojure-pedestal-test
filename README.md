@@ -1,1 +1,1 @@
-try to make web using pedestal.
+try to make web-sever using pedestal.
